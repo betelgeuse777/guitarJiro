@@ -8,3 +8,6 @@ KORG nanokeys2 de 2 octavas
 raspberry pi (preferiblemente el ultimo para tener un mejor rendimiento del DAO)
 Sunvox para procesadores ARM
 bateria para celulares (no necesario)
+
+
+beta  https://www.youtube.com/watch?v=74MSuNL85q0
